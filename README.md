@@ -6,4 +6,5 @@ This looks sick!! espically the screenshot capability -> https://docs.oracle.com
 TODO
 - Let's also generate some network traffic
 - how does alt tab sound like?
+- switching between various tabs of a web browser
 - what iF it opened a random notepad file and started typing using a bot?
